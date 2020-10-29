@@ -1,0 +1,2 @@
+# Swears
+Swear list.
